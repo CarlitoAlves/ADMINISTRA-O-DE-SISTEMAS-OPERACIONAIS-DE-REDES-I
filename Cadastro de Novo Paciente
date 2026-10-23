@@ -1,0 +1,9 @@
+## Cadastro de Novo Paciente (Recepcionista)
+Como recepcionista,
+quero cadastrar novos pacientes no sistema preenchendo seus dados pessoais e de convênio,
+para que eles possam realizar consultas e manter o prontuário atualizado.
+## Critérios de Aceitação:
+-[ ] O formulário de cadastro deve validar o formato do CPF e e-mail.
+-[ ] O sistema deve impedir o cadastro de CPFs duplicados, exibindo um alerta caso já exista.
+-[ ] Campos obrigatórios (Nome, Data de Nascimento, Telefone, CPF) devem ser validados antes de salvar.
+## Prioridade:* Alta | *Label:* feature, recepcao
