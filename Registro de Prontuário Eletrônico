@@ -1,0 +1,11 @@
+## Registro de Prontuário Eletrônico (Médico)
+
+Como médico,quero registrar as anotações da consulta, sintomas, diagnóstico e prescrições no prontuário eletrônico,
+para que o histórico clínico do paciente fique seguro e centralizado.
+
+## Critérios de Aceitação:
+- [ ] O sistema deve permitir salvar rascunhos automáticos do atendimento a cada 30 segundos.
+- [ ] O prontuário deve conter campos obrigatórios para Anamnese, Diagnóstico e Prescrição.
+- [ ] O registro só pode ser finalizado e assinado digitalmente pelo médico logado.
+
+## Prioridade:* Alta | *Label:* feature, medico
