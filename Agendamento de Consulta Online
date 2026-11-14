@@ -1,0 +1,14 @@
+## Agendamento de Consulta Online (Paciente)
+ Como paciente, quero poder agendar uma consulta médica pela plataforma,
+ para que eu possa escolher o profissional, dia e horário sem precisar ligar para a clínica.
+## Critérios de Aceitação:
+- [ ] Nome obrigatório
+- [ ] CPF válido
+- [ ] Impedir CPF duplicado
+- [ ] filtrar médicos por especialidade e convênio aceito.
+- [ ] exibir apenas horários livres na agenda do profissional selecionado.
+- [ ] enviar um e-mail/notificação de confirmação após finalizar o agendamento.
+## Prioridade
+Alta
+## Estimativa
+3 pontos
